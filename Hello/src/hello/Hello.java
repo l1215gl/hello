@@ -8,6 +8,7 @@ public class Hello {
 		String b = "1231321";
 		int y = 1;
 		int w = 1;
+		String ww = "4564";
 	}
 
 }
