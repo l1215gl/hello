@@ -7,6 +7,7 @@ public class Hello {
 		int i = 1;
 		String b = "1231321";
 		int y = 1;
+		int w = 1;
 	}
 
 }
