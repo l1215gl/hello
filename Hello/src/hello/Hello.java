@@ -6,6 +6,7 @@ public class Hello {
 		int i = 1;
 		String bb = "77";
 		int cc = 123;
+		System.out.println("77777");
 	}
 
 }
