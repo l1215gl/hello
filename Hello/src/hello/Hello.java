@@ -5,7 +5,6 @@ public class Hello {
 		String a = "123";
 		System.out.println("======");
 		System.out.println("======"+a);
-		System.out.println("==");
 	}
 
 }
