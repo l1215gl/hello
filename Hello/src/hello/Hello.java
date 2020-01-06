@@ -7,6 +7,7 @@ public class Hello {
 		String bb = "77";
 		int cc = 123;
 		System.out.println("77777");
+		System.out.println(cc);
 	}
 
 }
