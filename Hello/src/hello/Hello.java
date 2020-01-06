@@ -5,6 +5,7 @@ public class Hello {
 		String a = "123";
 		int i = 1;
 		String bb = "77";
+		int cc = 123;
 	}
 
 }
