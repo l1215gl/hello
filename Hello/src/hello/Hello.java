@@ -3,7 +3,7 @@ package hello;
 public class Hello {
 	public static void main(String[] args) {
 		String a = "123";
-		System.out.println("======");
+		int i = 1;
 		System.out.println("======"+a);
 	}
 
